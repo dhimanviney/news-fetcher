@@ -1,5 +1,5 @@
 body {
-  background-color: #191919;
+  background-color: #ADFF2F;
 }
 
 .content-wrap {
@@ -9,7 +9,7 @@ body {
 h1 {
   font-size: 45px;
   color: white !important;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Comic Sans MS', sans-serif;
 }
 
 #tags {
